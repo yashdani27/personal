@@ -1,0 +1,9 @@
+.root {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    background-color: #006699;
+    color: #fff;
+}
