@@ -7,3 +7,27 @@
     background-color: #006699;
     color: #fff;
 }
+/* 
+{
+    "name": "personal",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "deploy": "gh-pages -d dist"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yashdani27/personal.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/yashdani27/personal/issues"
+    },
+    "homepage": "https://yashdani27.github.io/personal",
+    "dependencies": {
+      "gh-pages": "^2.0.1"
+    }
+  } */
